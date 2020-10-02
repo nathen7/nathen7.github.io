@@ -28,6 +28,7 @@ text-align: center;
   justify-content: space-between;
   flex-wrap: wrap;
   flex-direction: row;
+  align-items: flex-start;
 }
 
 .wrapper {
@@ -39,6 +40,7 @@ text-align: center;
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
+  margin-right: 15px;
   max-width: 33%;
 }
 
