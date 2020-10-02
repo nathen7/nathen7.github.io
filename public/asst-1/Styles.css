@@ -39,7 +39,7 @@ text-align: center;
   flex-wrap: nowrap;
   flex-direction: column;
   max-width: 33%;
-  margin-right: 5%;
+  margin-right: 10px;
 }
 
 .content2 {
