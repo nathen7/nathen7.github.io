@@ -49,6 +49,7 @@ text-align: center;
   border-radius: 4px;
   border-width: 1px;
   border-style: solid;
+  max-width: 200px;
 }
 
 .content2 {
