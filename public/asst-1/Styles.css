@@ -1,6 +1,7 @@
 body {
   background-color: #ffffff;
   font-family: sans-serif;
+  margin: 0;
 }
 
 h1 {
@@ -16,7 +17,7 @@ text-align: center;
   background-color: #182CEB;
   color: #EBBC17;
   padding: 15px;
-  margin: 0;
+  margin: 15px;
 }
 
 .container1 {
