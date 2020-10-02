@@ -21,6 +21,10 @@ text-align: center;
   margin-bottom: 15px;
 }
 
+.container {
+  max-width: 960px;
+}
+
 .content1 {
   display: flex;
   justify-content: space-between;
