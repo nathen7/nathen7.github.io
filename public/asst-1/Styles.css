@@ -48,6 +48,7 @@ text-align: center;
 .content1 > img {
   border-radius: 4px;
   border-width: 100px;
+  border-style: solid;
 }
 
 .content2 {
