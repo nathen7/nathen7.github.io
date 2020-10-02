@@ -24,6 +24,7 @@ text-align: center;
 .container {
   max-width: 960px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .wrapper {
