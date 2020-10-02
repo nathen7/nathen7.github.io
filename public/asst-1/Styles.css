@@ -5,7 +5,6 @@ body {
 
 h1 {
 font-family: 'Concert One', cursive;
-color: #2a2a2a;
 text-align: center;
 }
 
@@ -15,7 +14,7 @@ text-align: center;
   justify-content: space-between;
   align-items: center;
   background-color: #182CEB;
-  text-decoration-color: #EBBC17;
+  color: #EBBC17;
   padding: 15px;
 }
 
