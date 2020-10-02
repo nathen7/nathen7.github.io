@@ -19,6 +19,7 @@ text-align: center;
   padding: 15px;
   margin: 0;
   margin-bottom: 15px;
+  flex-wrap: wrap;
 }
 
 .container {
