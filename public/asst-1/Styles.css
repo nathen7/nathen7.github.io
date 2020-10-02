@@ -1,20 +1,20 @@
 body {
-    background-color: #55aadd;
-  }
+  background-color: #55aadd;
+}
 
 h1 {
-  font-family: 'Concert One', cursive;
-  color: #2a2a2a;
-  text-align: center;
+font-family: 'Concert One', cursive;
+color: #2a2a2a;
+text-align: center;
 }
 
 .header {
-    margin-bottom: 10px;
-    display: flex;
-    justify-content: space-between;
-  }
-  
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
 .header, .container1, .container2 {
-    background-color: rgba(0,255,0,0.5);
-    padding: 1%;
+  background-color: rgba(0,255,0,0.5);
+  padding: 1%;
 }
