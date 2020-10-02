@@ -1,5 +1,5 @@
 body {
-  background-color: #182CEB;
+  background-color: #ffffff;
   font-family: sans-serif;
 }
 
@@ -14,6 +14,9 @@ text-align: center;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #182CEB;
+  text-decoration-color: #EBBC17;
+  padding: 0%;
 }
 
 .container1 {
@@ -22,8 +25,9 @@ text-align: center;
   align-items: center;
   flex-wrap: wrap;
 }
-
+/*
 .header, .container1, .container2 {
   background-color: #EBBC17;
   padding: 1%;
 }
+*/
