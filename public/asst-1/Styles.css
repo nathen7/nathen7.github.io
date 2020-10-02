@@ -44,6 +44,10 @@ text-align: center;
   max-width: 33%;
 }
 
+.content1 image {
+  border-radius: 4px;
+}
+
 .content2 {
   display: flex;
   flex-wrap: nowrap;
