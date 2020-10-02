@@ -38,14 +38,14 @@ text-align: center;
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
-  max-width: 450px;
+  max-width: 33%;
 }
 
 .content2 {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
-  max-width: 450px;
+  min-width: 67%;
 }
 
 /*
