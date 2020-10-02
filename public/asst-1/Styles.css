@@ -11,6 +11,6 @@ h1 {
 .header {
     margin-bottom: 10px;
     display: flex;
-    flex-flow: center;
+    justify-content: space-between;
   }
   
