@@ -12,5 +12,7 @@ h1 {
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
+    background-color: rgba(0,255,0,0.5);
+    padding: 1%;
   }
   
