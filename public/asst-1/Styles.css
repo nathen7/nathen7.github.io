@@ -43,7 +43,7 @@
     flex: 0 1 auto;
     flex-wrap: nowrap;
     flex-direction: column;
-    margin-right: 15px;
+    margin-right: 0px;
     max-width: 33%;
   }
 
