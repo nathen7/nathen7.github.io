@@ -23,6 +23,7 @@ text-align: center;
 
 .container {
   max-width: 960px;
+  display: flex;
 }
 
 .wrapper {
