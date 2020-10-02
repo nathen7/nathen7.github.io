@@ -1,5 +1,5 @@
 body {
-  background-color: #55aadd;
+  background-color: #182CEB;
 }
 
 h1 {
@@ -15,6 +15,6 @@ text-align: center;
 }
 
 .header, .container1, .container2 {
-  background-color: rgba(0,255,0,0.5);
+  background-color: #9E7B00;
   padding: 1%;
 }
