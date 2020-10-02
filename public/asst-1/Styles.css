@@ -12,7 +12,9 @@ h1 {
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
-    background-color: rgba(0,255,0,0.5);
-    padding: 1%;
   }
   
+.header, .container1, .container2 {
+    background-color: rgba(0,255,0,0.5);
+    padding: 1%;
+}
