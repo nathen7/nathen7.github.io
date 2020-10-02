@@ -16,6 +16,14 @@ text-align: center;
   align-items: center;
 }
 
+.container1 {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .header, .container1, .container2 {
   background-color: #EBBC17;
   padding: 1%;
