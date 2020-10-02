@@ -31,22 +31,21 @@ text-align: center;
 
 .wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .content1 {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
-  max-width: 305px;
-  margin-right: 15px;
+  max-width: 30%;
 }
 
 .content2 {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
-  max-width: 640px;
+  max-width: 60%;
 }
 
 /*
