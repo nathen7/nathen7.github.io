@@ -34,10 +34,18 @@ text-align: center;
   justify-content: center;
 }
 
+.content1 {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  max-width: 450px;
+}
+
 .content2 {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
+  max-width: 450px;
 }
 
 /*
