@@ -1,7 +1,7 @@
 @media only screen and (min-width: 1000px) {
 
   body {
-    background-color: #EBBC17;
+    background-color: #F0E85B;
     font-family: sans-serif;
     margin: 0;
   }
@@ -16,8 +16,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #182CEB;
-    color: #EBBC17;
+    background-color: #874DF0;
+    color: #F0E85B;
     padding: 15px;
     margin: 0;
     margin-bottom: 15px;
@@ -59,13 +59,19 @@
     flex-wrap: nowrap;
     flex-direction: column;
     min-width: 66%;
+    background-color: #874DF0;
   }
 }
+
+
+
+
+
 
 @media only screen and (max-width: 1000px) {
 
   body {
-    background-color: #EBBC17;
+    background-color: #F0E85B;
     font-family: sans-serif;
     margin: 0;
   }
@@ -80,8 +86,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #182CEB;
-    color: #EBBC17;
+    background-color: #874DF0;
+    color: #F0E85B;
     padding: 15px;
     margin: 0;
     margin-bottom: 15px;
