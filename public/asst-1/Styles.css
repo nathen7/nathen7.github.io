@@ -45,7 +45,7 @@ text-align: center;
   max-width: 33%;
 }
 
-img {
+.content1 > img {
   border-radius: 4px;
   border-width: 1px;
 }
