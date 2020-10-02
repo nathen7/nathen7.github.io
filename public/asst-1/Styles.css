@@ -33,7 +33,7 @@ text-align: center;
 }
 
 .content2 {
-  min-width: 60%;
+  flex-wrap: nowrap;
 }
 
 /*
