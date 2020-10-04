@@ -79,7 +79,7 @@ body {
 }
 
 
-/*Descktop specific css*/
+/*Desktop specific css*/
 @media only screen and (min-width: 1000px) {
   .header {
     justify-content: space-between;
@@ -94,6 +94,10 @@ body {
     margin-right: 15px;
     flex-direction: column;
     max-width: 33%;
+  }
+  .content2 {
+    flex-flow: row wrap;
+    flex: 2;
   }
 }
 
